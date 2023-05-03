@@ -2,7 +2,7 @@
 
 ### Réalisation - "Créez un site accessible pour une plateforme de photographes"
 
-- [Dossier src du repo](https://github.com/barthRachel/FishEye)
+- [Site FishEye](https://barthrachel.github.io/FishEye/index.html)
 
 ---
 
