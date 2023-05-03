@@ -29,7 +29,7 @@ Pour t’aider à démarrer, voici toutes les informations que j'ai recueillies 
 
 - Mes [notes de réunion](https://course.oc-static.com/projects/Front-End+V2/P5+Javascript+%26+Accessibility/Notes+de+reunion.pdf) détaillant les principales fonctionnalités et les exigences techniques à mettre en œuvre. 
 - Les [maquettes approuvées](https://www.figma.com/file/Q3yNeD7WTK9QHDldg9vaRl/UI-Design-FishEye-FR?node-id=0-1&t=JpEBndKxfqeckQFq-0), développées par notre designer. Tu vas créer une page principale ainsi qu’une page avec les informations pour chaque photographe de l’échantillon. 
-- Des exemples de photos et de vidéos de FishEye, que tu devras utiliser pour la conception des pages. 
+- [Des exemples de photos et de vidéos de FishEye](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P5+Javascript+%26+Accessibility/FishEye_Photos.zip), que tu devras utiliser pour la conception des pages. 
 - [Des exemples de données au format JSON](https://github.com/OpenClassrooms-Student-Center/Front-End-Fisheye/blob/main/data/photographers.json), que tu pourras utiliser pour créer les différentes pages des photographes de façon dynamique. Ce format imite la structure des données dans la base de données, donc ne modifie pas les données existantes. 
 J'avais demandé à Zoé de s’occuper de ce projet, mais après avoir rédigé un premier jet très rapidement, elle a dû passer à autre chose. Tu trouveras [la base de son code sur ce repo](https://github.com/OpenClassrooms-Student-Center/Front-End-Fisheye) avec une partie du HTML et CSS mis en place, ce qui devrait t’aider. Tu peux forker son repo pour te lancer dans le code.
 
